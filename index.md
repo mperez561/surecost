@@ -1,6 +1,6 @@
 # PRIVACY POLICY
 
-*Last updated April 22, 2025*
+*Last updated April 23, 2025*
 
 This Privacy Notice for SureCost ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
 
@@ -100,7 +100,7 @@ When we have no ongoing legitimate business need to process your personal inform
 
 > *In Short:* We aim to protect your personal information through a system of organizational and technical security measures.
 
-We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
+We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment. We rely on the security infrastructure provided by Google Firebase and utilize Firestore Security Rules designed to restrict data access to authenticated users for their own information.
 
 ## 6. DO WE COLLECT INFORMATION FROM MINORS?
 
@@ -234,4 +234,4 @@ If you have questions or comments about this notice, you may email us at **maper
 
 ## 12. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-> You can review and update your budget plans and application settings directly within the SureCost Budget application using the editing features provided on the relevant screens (e.g., Settings, Budget Preview). To delete your account and all associated data (including plans and settings), please use the "Delete Account" option found within the app's Account screen. For other requests regarding your data, such as requesting access to the information we hold, you may contact us using the details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#11-how-can-you-contact-us-about-this-notice)" or fill out and submit a data subject access request. These rights may be limited in some circumstances by applicable law.
+> You can review and update your budget plans and application settings directly within the SureCost Budget application using the editing features provided on the relevant screens. To delete your account and all associated data (including plans and settings), please use the "Delete Account" option found within the app's Account screen (Home > Menu Bar > Account > Delete Account). For other requests regarding your data, such as requesting access to the information we hold, you may contact us using the details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#11-how-can-you-contact-us-about-this-notice)" or fill out and submit a data subject access request. These rights may be limited in some circumstances by applicable law.
