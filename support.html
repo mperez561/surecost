@@ -2,33 +2,67 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SureCost Support</title>
   <style>
-    body { font-family: sans-serif; max-width: 600px; margin: 2em auto; line-height: 1.5; }
-    h1 { color: #333; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; /* Modern font stack */
+      max-width: 600px;
+      margin: 2em auto;
+      line-height: 1.6; /* Slightly increased line-height for readability */
+      padding: 1em; /* Added padding */
+      color: #333; /* Default text color */
+    }
+    h1 {
+      color: #24292e; /* Slightly adjusted heading color */
+      border-bottom: 1px solid #e1e4e8; /* Subtle separator */
+      padding-bottom: 0.3em;
+      margin-bottom: 1em;
+    }
+    ul {
+      list-style: none; /* Remove default bullets */
+      padding-left: 0;
+    }
+    li {
+      margin-bottom: 1.5em; /* Increased spacing between items */
+    }
+    a {
+      color: #0366d6; /* Standard link color */
+    }
     a.button {
       display: inline-block;
-      margin-top: 1em;
-      padding: 0.5em 1em;
+      margin-top: 0.5em; /* Adjusted margin */
+      padding: 0.6em 1.2em; /* Slightly adjusted padding */
       background: #0366d6;
       color: white;
       text-decoration: none;
-      border-radius: 4px;
+      border-radius: 6px; /* Slightly more rounded */
+      font-weight: 600;
+      transition: opacity 0.2s ease-in-out; /* Smooth hover transition */
+    }
+    a.button:hover {
+      opacity: 0.85; /* Feedback on hover */
     }
   </style>
 </head>
 <body>
   <h1>SureCost Support</h1>
-  <p>If you have questions, feature requests or encounter bugs, please let us know:</p>
+  <p>Need help? Have a suggestion or found a bug? Here's how to reach us:</p>
+
   <ul>
-    <li><strong>File an issue on GitHub:</strong><br>
-      <a class="button" href="https://github.com/mperez561/surecost/issues/new/choose" target="_blank">
-        New GitHub Issue »
+    <li>
+      Report an issue or request a feature on GitHub:<br>
+      <a class="button" href="https://github.com/mperez561/surecost/issues/new/choose" target="_blank" rel="noopener noreferrer">
+        Open GitHub Issue »
       </a>
+      <br><small>(Best for bug reports and feature tracking)</small>
     </li>
-    <li><strong>Email us directly:</strong><br>
+    <li>
+      Send us an email:<br>
       <a href="mailto:maperez1@cpp.edu">maperez1@cpp.edu</a>
+      <br><small>(For general questions or direct contact)</small>
     </li>
   </ul>
+
 </body>
 </html>
